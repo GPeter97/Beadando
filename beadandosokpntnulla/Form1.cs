@@ -81,5 +81,15 @@ namespace beadandosokpntnulla
                 textBoxH.Clear();
             }
         }
+
+        private void betoltes_Click(object sender, EventArgs e)
+        {
+           /* if (textBoxN.Text != null)
+            {
+                string[] Hobbik = System.Text.RegularExpressions.Regex.Split(textBoxN.Text, "\r\n");
+                textBoxN.Text.AddRange(Hobbik);
+                textBoxN.Clear();
+            }*/
+        }
     }
 }

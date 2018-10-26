@@ -54,6 +54,7 @@
             this.betoltes.TabIndex = 0;
             this.betoltes.Text = "betoltes";
             this.betoltes.UseVisualStyleBackColor = true;
+            this.betoltes.Click += new System.EventHandler(this.betoltes_Click);
             // 
             // mentes
             // 
